@@ -7,7 +7,7 @@ body {
     font-family: "Chakra Petch", sans-serif;
     background-image: url('musica.png'); 
     background-repeat: no-repeat;
-    background-position: left 130px;
+    background-position: bottom ;
     background-color: brown; 
     display: flex; 
     flex-direction: column; 
@@ -119,7 +119,7 @@ footer {
     padding: 0.5%; /* Espaçamento interno */
     width: 100%; /* Largura total da página */
     position: absolute; /* Posiciona o rodapé */
-    bottom:-37px; /* Alinha ao fundo da página */
+    bottom:-70px; /* Alinha ao fundo da página */
     font-size: 1rem; /* Tamanho da fonte */
 }
 footer a{
