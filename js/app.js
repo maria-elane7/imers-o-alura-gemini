@@ -25,7 +25,7 @@ function pesquisar() {
        if(titulo.includes(campoPesquisa) || descricao.includes(campoPesquisa)){
             resultado += `
             <div class="item-resultado">
-              <h2 class="item-resultado h2"><a href="https://www.youtube.com/watch?v=bxo9mtJjvS0" target="_black">${musicas.musica}</a></h2>
+              <h2 class="item-resultado h2"><a href="#" target="_black">${musicas.musica}</a></h2>
               <p class="descricao-meta">${musicas.descricao}</p>
               <a href="${musicas.link}" target="_blank">Letra da música</a>
             </div>

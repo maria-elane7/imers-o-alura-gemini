@@ -7,7 +7,7 @@ let musica = [
     {
       musica : "Página de Amigos",
       descricao : "A música Página de Amigos é uma canção de Chitãozinho & Xororó, lançada em 1995. Incluída no álbum No Rancho Fundo, a canção é um clássico da música sertaneja.",
-      link :"https://www.letras.mus.br/chitaozinho-e-xororo/pagina-de-amigos"
+      link :"https://www.letras.mus.br/chitaozinho-e-xororo/pagina-de-amigos  https://www.youtube.com/watch?v=UpgOToCP_i8 "
     },
     {
       musica : "É o Amor",
@@ -22,12 +22,12 @@ let musica = [
     {
       musica : "Homem Carente",
       descricao : "é uma canção de Rick & Renner, lançada em [Ano de lançamento].Um dos maiores sucessos da dupla, a música retrata a saudade e a solidão de um homem apaixonado.",
-      link : "https://www.letras.mus.br/rick-e-renner/link_exato_da_letra_no_letras_mus_br"
+      link : "https://www.vagalume.com.br/rick-e-renner/homem-carente-completa.html"
     },
     {
       musica : "Dança Comigo",
       descricao : "Um convite irresistível para reviver momentos especiais! Dança Comigo de Rick & Renner nos transporta para uma noite mágica, com uma melodia envolvente e uma letra que fala direto ao coração. A paixão e a nostalgia se misturam nessa canção clássica do sertanejo romântico, que nos faz querer dançar agarradinho(a) por horas a fio.",
-      link : "https://www.letras.mus.br/rick-e-renner/789456"
+      link : "https://www.letras.mus.br/rick-e-renner/1817663/"
     },
     {
       musica : "É Você Que Eu Amo",
